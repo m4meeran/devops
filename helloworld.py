@@ -1,2 +1,2 @@
-print("Hello, World!")
-print(3+4)
+print("Hello World")
+print("I am learning git")
